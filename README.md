@@ -9,6 +9,7 @@ Access the project by cloning the app using github code feature:
 
 # Create a .txt file
 Depending on what language you are converting from this would include english most commonly, or morse, or binary.
+
 Include anything you want to translate ON DIFFERENT LINES
 
 # Run the application
